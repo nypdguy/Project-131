@@ -1,0 +1,10 @@
+button{
+    border-radius: 100px;
+    width: 300;
+    height: 50;
+    background-color: white;
+    border-width: 1px;
+}
+body{
+    background-size: cover;
+}
